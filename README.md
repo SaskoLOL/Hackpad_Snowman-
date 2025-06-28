@@ -14,8 +14,9 @@ MX-Style switches - 10x
 
 # Screenshots of the Board:
 ![Snímka obrazovky 2025-06-27 145527](https://github.com/user-attachments/assets/a38c39d8-3574-43ed-b44a-990316c8f981)
-![image](https://github.com/user-attachments/assets/10a87b0a-b40b-4753-b2c1-17ded9a08aed)
-![image](https://github.com/user-attachments/assets/4d2eeb94-6d7a-441d-897a-a8b883706d4f) (I had 6 leds but I changed it to 4)
+![new_schematic_ss](https://github.com/user-attachments/assets/00f8cd03-d52d-4715-b6bd-b1bdfeab679f) (I had 6 leds but I changed it to 4)
+![new_pcb_ss](https://github.com/user-attachments/assets/693e8e14-aa7d-47df-8698-c05c06657ca2)
+
 # Firmware:
 I used KMK as a start for my Firmware
 
